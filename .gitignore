@@ -1,3 +1,6 @@
-# Compléter ici !!!!???
+# Compléter ici !!!!???: The .gitignore file specifies which files and directories Git should ignore, preventing them from being tracked in the repository. Files that should typically be included in .gitignore fall into the following categories:
 
-node_modules
+node_modules/
+.env
+package-lock.json
+package.json
