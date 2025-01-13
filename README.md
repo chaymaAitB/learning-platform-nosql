@@ -156,21 +156,24 @@ Ce projet est une plateforme d'apprentissage qui utilise **MongoDB**, **Redis** 
 ```
 
 **Demonstration** :
+![Créer un cours](post_course.png)
 
 ### Lister les cours
 **GET** `/api/courses`
 
 **Demonstration** :
+![Lister les cours](get_courses.png)
 
 ### Consulter un cours
 **GET** `/api/courses/:id`
 
 **Demonstration** :
+![Consulter un cours](get_course.png)
 
 ### Supprimer un cours
 **DELETE** `/api/courses/:id`
 
 **Demonstration** :
-
+![Consulter un cours](del_course.png)
 
 #### N'hésitez pas à poser des questions ou proposer des améliorations ! 😊
