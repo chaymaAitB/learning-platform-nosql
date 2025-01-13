@@ -56,7 +56,7 @@ Ce projet est une plateforme d'apprentissage qui utilise **MongoDB**, **Redis** 
 ├── 📄 package-lock.json # Verrouillage des versions des dépendances
 ├── 📄 .env.example     # Exemple de fichier d'environnement
 ├── 📄 README.md        # Documentation du projet
-└── 📄 server.js        # Point d'entrée de l'application
+└── 📄 app.js        # Point d'entrée de l'application
 ```
 
 ## ✨ Choix techniques
