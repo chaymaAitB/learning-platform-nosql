@@ -79,8 +79,6 @@ Ce projet est une plateforme d'apprentissage qui utilise **MongoDB**, **Redis** 
 ### **Architecture** :
 - Basée sur une séparation claire entre les **routes**, les **contrôleurs**, et les **services** pour un code maintenable.
 
----
-
 ## ❓ Réponses aux questions posées dans les commentaires  
 
 - **Question** : Pourquoi créer un module séparé pour les connexions aux bases de données ?  
